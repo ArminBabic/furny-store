@@ -1,6 +1,7 @@
 # furny-store
 Furniture store with vanilla java script
-online link : https://arminbabic.github.io/furny-store/
+<br/>
+DEMO : https://arminbabic.github.io/furny-store/
 
 
 ![image](https://user-images.githubusercontent.com/91044351/164339441-5db2b382-9efc-4bf6-a58b-524d696da366.png)
