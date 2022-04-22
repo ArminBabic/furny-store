@@ -1,5 +1,5 @@
 # furny-store
-Furniture store with vanilla java script
+Furniture store with vanilla java script and API
 <br/>
 DEMO : https://arminbabic.github.io/furny-store/
 
